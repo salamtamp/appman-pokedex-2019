@@ -14,7 +14,7 @@
 - After submit registration form redirect to `Login` page
 - After registration success user will receive an empty `Pokedex`
 
-`SCREENSHOT: REGISTRATION PAGE`
+![Registration](./screenshots/REGISTRATION.png "Registration")
 
 ### Login
 
@@ -24,7 +24,7 @@
 - After submit login form redirect to `List` page.
 - Fallback page when authentication failed
 
-`SCREENSHOT: LOGIN PAGE`
+![Login](./screenshots/LOGIN.png "Login")
 
 ### List
 
@@ -34,7 +34,7 @@
 - Each card links to it's own `Information` page
 - Fallback page when authenticated
 
-`SCREENSHOT: LIST PAGE`
+![List](./screenshots/LIST.png "List")
 
 ### Information
 
@@ -44,7 +44,7 @@
 - Each `Pokemon` in `Pokedex` is displayed in a card that contains it's `name`, `image`, `HP`, `attack`, `resistance` and `type`
 - Link to `Add Pokemon` is present only when authenticated user is it's `Pokedex` owner
 
-`SCREENSHOT: INFORMATION PAGE`
+![Information](./screenshots/INFORMATION.png "Information")
 
 ### Add Pokemon
 
@@ -53,7 +53,18 @@
 - Contains link to navigate to it's `Information` page
 - Each `Pokemon` in search result is displayed in the same card with card in `Information` page but contains `Add` button to add `Pokemon` to `Pokedex`
 
-`SCREENSHOT: ADD POKEMON PAGE`
+![Add Pokemon](./screenshots/ADD_POKEMON.png "Add Pokemon")
+![Add Pokemon Search](./screenshots/ADD_POKEMON_SEARCH.png "Add Pokemon Search")
+
+## Full Flow of Application
+
+### User is a pokedex owner
+
+![Pokedex Owner FLow](./screenshots/POKEDEX_OWNER_FLOW.gif "Pokedex Owner Flow")
+
+### User is not a pokedex owner
+
+![Not Pokedex Owner Flow](./screenshots/NOT_POKEDEX_OWNER_FLOW.gif "Not Pokedex Owner Flow")
 
 ## Technical Requirements
 
@@ -74,3 +85,4 @@
 ## Hint
 
 - `Pokemon` data can be found in [pokemon.json](./seeds/pokemon.json)
+- `Pokemon` attack & resistance are calculated by it's length multiple by 50 & 20 sequentially
