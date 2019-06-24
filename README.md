@@ -6,12 +6,8 @@ AppMan's coding challenge base on story of `Pokemon` and `Pokedex`
 
 Since this is a challenge, so following some rules should give a better measurement to your skills than do it freely
 
-1. `Timebox:` Developer must finish the challenge with 24 hours
+1. `Timebox:` Developer must finish the challenge with `72` hours
 2. `DIY:` Do it yourself. Don't ask anyone for help. Only search engine can help you.
-
-## INSTALLATION
-
-- `INSTALLATION INSTRUCTION WILL BE PROVIDED HERE SOON`
 
 ## INSTRUCTION
 
