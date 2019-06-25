@@ -2,6 +2,10 @@
 
 AppMan's coding challenge base on story of `Pokemon` and `Pokedex`
 
+## DEMO
+
+Checkout: <https://appman-pokedex-2019-demo.herokuapp.com/login>
+
 ## RULES
 
 Since this is a challenge, so following some rules should give a better measurement to your skills than do it freely
