@@ -32,7 +32,7 @@ Here are what to submit
 
 Here is the link for submit
 
-- `LINK WILL BE PROVIDED HERE SOON`
+<https://appmanpokedex.typeform.com/to/Wf87UM>
 
 If you have any questions, please do not hesitate to ask us anytime. Wish you luck!! :)
 
