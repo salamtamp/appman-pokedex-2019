@@ -87,3 +87,4 @@
 - `Pokemon` data can be found in [pokemon.json](./seeds/pokemon.json)
 - `Pokemon` attack & resistance are calculated by it's length multiple by 50 & 20 sequentially
 - Some CSS are located in `assets` folder already, checkout `frontend/index.html` for more information
+- Feel free to inspect the demo CSS
